@@ -1,0 +1,10 @@
+Keras==2.2.3
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+PyYAML==6.0
+scikit-image==0.16.2
+tensorboard==1.15.0
+tensorflow==1.15.0
+tensorflow-directml==1.15.8 #For Windows computers with 3xxx series GPU
+tensorflow-estimator==1.15.1
+tensorflow-gpu==1.15.2
